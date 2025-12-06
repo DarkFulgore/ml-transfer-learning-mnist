@@ -8,6 +8,12 @@
 ![Status](https://img.shields.io/badge/Status-Concluído-success.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+## 🚀 Abrir o Projeto no Google Colab
+
+Clique no botão abaixo para abrir e executar o notebook completo no Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mjJ2lxUkYViHjYWEAAR6tYsH2Ie6XEES)
+
 ---
 
 ## 📌 Sobre o Projeto
