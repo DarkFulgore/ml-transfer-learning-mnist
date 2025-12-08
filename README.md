@@ -1,4 +1,4 @@
-# 🧠 Projeto – Transfer Learning com Deep Learning (MNIST / Cats vs Dogs)
+# 🧠 Projeto – Transfer Learning com Deep Learning (MobileNetV2 / Cats vs Dogs)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange.svg)
